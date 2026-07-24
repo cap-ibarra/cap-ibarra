@@ -1,16 +1,21 @@
-## Hi there 👋 I'm Sebastian Ibarra!
+<h1 align="center">
+  Hi 👋, I'm Sebastian Ibarra
+</h1>
 
-<!--
-**cap-ibarra/cap-ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+BSIT-WMA Student @ FEU Tech
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Full Stack Developer • UI/UX Enthusiast • Always Learning
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BSIT-WMA Student at FEU Tech
+- 💻 Currently building **Voix**
+- 🌱 Learning **Next.js, Prisma, PostgreSQL**
+- 🎨 Passionate about modern UI/UX
+- ☕ Coffee makes debugging easier.
