@@ -1,21 +1,51 @@
-<h1 align="center">
-  Hi 👋, I'm Sebastian Ibarra
-</h1>
+<div align="center">
 
-<h3 align="center">
-BSIT-WMA Student @ FEU Tech
-</h3>
+# Sebastian Ibarra
 
-<p align="center">
-Full Stack Developer • UI/UX Enthusiast • Always Learning
-</p>
+Building modern digital experiences.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Typing Animation -->
+
+Coming Soon
+
+</div>
+
+<br>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 BSIT-WMA Student at FEU Tech
-- 💻 Currently building **Voix**
-- 🌱 Learning **Next.js, Prisma, PostgreSQL**
-- 🎨 Passionate about modern UI/UX
-- ☕ Coffee makes debugging easier.
+I'm currently focused on building modern full-stack web applications with a strong emphasis on clean user interfaces, thoughtful user experiences, and scalable backend architecture.
+
+Current focus:
+
+- Voix
+- Next.js
+- Prisma
+- PostgreSQL
+- UI Engineering
+
+---
+
+## Featured Project
+
+Coming soon.
+
+---
+
+## Tech Stack
+
+Coming soon.
+
+---
+
+## Development
+
+Coming soon.
