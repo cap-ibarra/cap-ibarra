@@ -1,12 +1,36 @@
 # cap-ibarra
 
-> Version 1.0.0
->
-> Brand Guidelines
+Version 1.0.0
+
+---
+
+> Quietly Crafted.
 
 ---
 
 ## Philosophy
+
+Technology should never compete with the experience.
+
+Every project should feel calm, intentional, and thoughtfully crafted.
+
+The goal isn't to impress people with complexity.
+
+The goal is to make them feel comfortable.
+
+---
+
+## Vision
+
+To build digital experiences that people genuinely enjoy using.
+
+Beautiful software isn't loud.
+
+It's memorable because of how it makes people feel.
+
+---
+
+## Design Principles
 
 Craft over clutter.
 
@@ -18,92 +42,67 @@ Memorable over trendy.
 
 Thoughtful over complicated.
 
-Everything created under the **cap-ibarra** identity should feel intentional, cozy, and timeless.
+Whitespace is a feature.
+
+Small details matter.
 
 ---
 
-# Vision
+## Brand Personality
 
-Create digital experiences that feel calm, premium, and memorable.
+Quiet.
 
-Technology should disappear behind great design.
+Curious.
 
----
+Warm.
 
-# Personality
+Minimal.
 
-The cap-ibarra identity is...
+Patient.
 
-- Calm
-- Curious
-- Intentional
-- Warm
-- Minimal
-- Thoughtful
-- Quietly Confident
-
-Never:
-
-- Loud
-- Flashy
-- Cluttered
-- Over-designed
-- Trend-chasing
+Intentional.
 
 ---
 
-# Keywords
-
-Midnight
-
-Coffee
-
-Rain
-
-Craftsmanship
-
-Modern
-
-Minimal
-
-Warm
-
-Thoughtful
-
----
-
-# Visual Direction
+## Atmosphere
 
 70% Midnight Workspace
 
 30% Digital Café
 
-Inspired by:
-
-- Apple
-- Vercel
-- Linear
-- Arc Browser
-- Japanese cafés
-- Scandinavian interiors
+The experience should feel like writing code in your favorite café after midnight while rain quietly falls outside.
 
 ---
 
-# Color Palette
+## Color Palette
 
-| Name | Hex |
-|------|------|
-| Midnight | #09090B |
-| Surface | #18181B |
-| Paper | #FAFAFA |
-| Muted | #A1A1AA |
-| Espresso | #A67C52 |
-| Latte | #D7B899 |
-| Warm Glow | #F6E6C9 |
+Midnight
+#09090B
+
+Surface
+#18181B
+
+Paper
+#FAFAFA
+
+Muted
+#A1A1AA
+
+Espresso
+#A67C52
+
+Caramel
+#C18A52
+
+Latte
+#D7B899
+
+Warm Glow
+#F6E6C9
 
 ---
 
-# Typography
+## Typography
 
 Primary
 
@@ -119,33 +118,37 @@ JetBrains Mono
 
 ---
 
-# Spacing
+## Motion
 
-8px Grid
+Motion exists to reward attention.
 
-Everything aligns to an 8px spacing system.
-
-Whitespace is part of the design.
-
----
-
-# Motion
-
-Motion should feel calm.
+Animations should be subtle.
 
 Never distracting.
 
 Never excessive.
 
-Animations should be subtle enough that users notice them only after spending time with the interface.
+Movement should feel alive rather than flashy.
 
 ---
 
-# Mascot
+## The Logo
 
-Name
+The logo is inspired by Cap.
 
-Cap
+It is not Cap.
+
+The logo should remain timeless, calm, and minimal.
+
+No unnecessary details.
+
+No facial expression.
+
+Just enough information for the brain to recognize the silhouette.
+
+---
+
+## Cap
 
 Age
 
@@ -154,14 +157,6 @@ Age
 Occupation
 
 Coding Companion
-
-Personality
-
-- Calm
-- Curious
-- Introverted
-- Patient
-- Cozy
 
 Favorite Drink
 
@@ -175,51 +170,39 @@ Favorite Framework
 
 Next.js
 
-Motto
+Personality
 
-"One more commit."
+Calm
 
----
+Curious
 
-# Logo Principles
+Patient
 
-The logo is not Cap.
+Introverted
 
-The logo is inspired by Cap.
+Thoughtful
 
-The mascot adds personality.
+Favorite Quote
 
-The logo represents the brand.
+One more commit.
 
----
+Dream
 
-# Illustration Style
-
-Soft lighting.
-
-Warm colors.
-
-Rounded geometry.
-
-Premium.
-
-Minimal.
-
-Cozy.
-
-No exaggerated expressions.
-
-No visual clutter.
+Build things that make people smile.
 
 ---
 
-# Design Goal
+## The Feeling
 
-Visitors should feel like they just entered their favorite café after midnight.
+Visitors shouldn't feel like they opened a GitHub profile.
 
-A place where software is crafted with care.
+They should feel like they walked into a cozy workspace where software is crafted with care.
 
 ---
+
+Good evening.
+
+Stay for a while.
 
 Until next commit.
 

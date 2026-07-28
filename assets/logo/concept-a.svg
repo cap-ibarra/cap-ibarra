@@ -1,0 +1,36 @@
+<svg width="128" height="128" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Head -->
+  <rect
+    x="4"
+    y="5"
+    width="16"
+    height="14"
+    rx="7"
+    stroke="#FAFAFA"
+    stroke-width="1.75"
+  />
+
+  <!-- Left Ear -->
+  <circle
+    cx="8"
+    cy="5"
+    r="1.2"
+    stroke="#FAFAFA"
+    stroke-width="1.75"
+  />
+
+  <!-- Right Ear -->
+  <circle
+    cx="16"
+    cy="5"
+    r="1.2"
+    stroke="#FAFAFA"
+    stroke-width="1.75"
+  />
+
+  <!-- Eyes -->
+  <circle cx="9" cy="12" r=".6" fill="#FAFAFA"/>
+  <circle cx="15" cy="12" r=".6" fill="#FAFAFA"/>
+
+</svg>
